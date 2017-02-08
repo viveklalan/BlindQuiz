@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:gkBlind.xcodeproj">
+      location = "self:/Users/apple/Desktop/gkBlind/BlindQuiz.xcodeproj">
    </FileRef>
 </Workspace>
